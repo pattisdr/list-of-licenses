@@ -1,5 +1,5 @@
 {
-  "name": "@centerforopenscience/list-of-licenses",
+  "name": "list-of-licenses",
   "version": "1.0.0",
   "description": "A collection of common licenses.",
   "main": "dist/list-of-licenses.json",
@@ -10,7 +10,7 @@
   "author": "Center For Open Science",
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/CenterForOpenScience/list-of-licenses.git",
+    "url": "https://github.com/pattisdr/list-of-licenses.git",
     "type": "git"
   },
   "keywords": [
